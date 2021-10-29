@@ -1,3 +1,3 @@
 # Quote-Generator
 
-Generates inspirational quotes as you click on new quote button.
+Generates new inspirational quotes when you click on New Quote button.
